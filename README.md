@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Musharraf+Kazi!;💻+Full+Stack+Developer;🧠+AI+and+Agentic+AI+Explorer;🚀+Always+Learning+and+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Musharraf+Kazi!;💻+Full+Stack+Developer;🤖+AI+SaaS+Builder;🧠+AI+and+Agentic+AI+Explorer;🚀+Always+Learning+and+Building!" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ### 👋 Welcome to My GitHub Profile
 
-I'm **Musharraf Kazi (MK Knight)** — a passionate **Full Stack Developer**, **Python Programmer**, and **AI Builder** with a keen interest in creating innovative digital solutions.  
+I'm **Musharraf Kazi (MK Knight)** — a passionate **Full Stack Developer**, **Python Programmer**, and **AI SaaS Builder** with a keen interest in creating innovative digital solutions.  
 I love creating intuitive web experiences, automating workflows, and exploring the future of **Generative AI** and **AI Agents**.
 
 > 💡 *"Code. Create. Conquer."*
@@ -29,6 +29,7 @@ I love creating intuitive web experiences, automating workflows, and exploring t
 ## 🧭 Quick Overview
 
 - 💼 Currently working on **AI website builders**, **Python projects**, and **React apps**
+- 🤖 Building cutting-edge **AI SaaS Products** with real-world applications
 - 🧠 Learning **AI Agents**, **LangChain**, and **Machine Learning foundations**
 - ⚙️ Passionate about **Web Development**, **AI Automation**, and **Open Source**
 - 🌍 Based in **India**
@@ -74,7 +75,243 @@ I love creating intuitive web experiences, automating workflows, and exploring t
 
 ### 🤖 AI & Machine Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi" alt="AI Skills" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,langchain" alt="AI Skills" />
+</div>
+
+---
+
+## 🤖 AI SaaS Products
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="80" height="80" />
+  <h2>AI-Powered Solutions by Kazi Musharraf</h2>
+  <p>Exploring the frontiers of artificial intelligence through innovative SaaS products</p>
+</div>
+
+### 🚀 Featured AI Products
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/mk-knight23/vibe-main">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=vibe-main&theme=radical&hide_border=true" alt="vibe-main">
+        </a>
+        <p align="center">
+          <a href="https://vibe-main.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>Vibe</strong> - AI-powered mood analysis and content recommendation platform that adapts to user emotional states and preferences.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        </p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/mk-knight23/Chatgpt-Clone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=Chatgpt-Clone&theme=radical&hide_border=true" alt="Chatgpt-Clone">
+        </a>
+        <p align="center">
+          <a href="https://v0-clone-chat-gpt-app-eta.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>ChatGPT Clone</strong> - Full-featured conversational AI interface with advanced prompt engineering and response customization.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/mk-knight23/hierarchical-rag-beps">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=hierarchical-rag-beps&theme=radical&hide_border=true" alt="hierarchical-rag-beps">
+        </a>
+        <p align="center">
+          <a href="https://mk-knight23.github.io/hierarchical-rag-beps">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>Hierarchical RAG BEPS</strong> - Advanced Retrieval-Augmented Generation system with hierarchical document processing for enterprise knowledge management.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/LangChain-FF6B35?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+          <img src="https://img.shields.io/badge/Pinecone-111111?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone">
+        </p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/mk-knight23/gpt-clone-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=gpt-clone-app&theme=radical&hide_border=true" alt="gpt-clone-app">
+        </a>
+        <p align="center">
+          <a href="https://gpt-clone-app.lovable.app">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=lovable&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>GPT Clone App</strong> - Streamlined AI conversation interface with custom model fine-tuning and conversation history management.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🧠 AI Tools & Utilities
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <a href="https://github.com/mk-knight23/NLP-Pipeline">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=NLP-Pipeline&theme=radical&hide_border=true" alt="NLP-Pipeline">
+        </a>
+        <p align="center">
+          <a href="https://mk-knight23.github.io/NLP-Pipeline">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>NLP Pipeline</strong></p>
+        <p align="center">Comprehensive natural language processing toolkit for text analysis, sentiment detection, and entity recognition.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/NLTK-0096D6?style=flat-square&logo=nltk&logoColor=white" alt="NLTK">
+          <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
+        </p>
+      </td>
+      <td width="33%">
+        <a href="https://github.com/mk-knight23/technology-roadmaps-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=technology-roadmaps-app&theme=radical&hide_border=true" alt="technology-roadmaps-app">
+        </a>
+        <p align="center">
+          <a href="https://mk-knight23.github.io/technology-roadmaps-app">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>Tech Roadmaps</strong></p>
+        <p align="center">AI-powered learning path generator that creates personalized technology roadmaps based on user goals and skills.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT">
+        </p>
+      </td>
+      <td width="33%">
+        <a href="https://github.com/mk-knight23/Crazy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=Crazy&theme=radical&hide_border=true" alt="Crazy">
+        </a>
+        <p align="center">
+          <a href="https://crazy-three.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>Crazy</strong></p>
+        <p align="center">Creative AI content generator that produces unconventional ideas and solutions for brainstorming sessions.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+          <img src="https://img.shields.io/badge/Creative_AI-FF6B35?style=flat-square&logo=idea&logoColor=white" alt="Creative AI">
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%">
+        <a href="https://github.com/mk-knight23/funny-formal-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=funny-formal-ai&theme=radical&hide_border=true" alt="funny-formal-ai">
+        </a>
+        <p align="center">
+          <a href="https://funny-formal-ai.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>Funny Formal AI</strong></p>
+        <p align="center">Tone adjustment tool that transforms text between casual and formal styles with customizable humor levels.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+          <img src="https://img.shields.io/badge/NLP-0096D6?style=flat-square&logo=nlp&logoColor=white" alt="NLP">
+        </p>
+      </td>
+      <td width="33%">
+        <a href="https://github.com/mk-knight23/gensparkai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=gensparkai&theme=radical&hide_border=true" alt="gensparkai">
+        </a>
+        <p align="center">
+          <a href="https://mk-knight23.github.io/gensparkai">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>GenSparkAI</strong></p>
+        <p align="center">Creative spark generator that uses AI to provide inspiration for writers, designers, and content creators.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+          <img src="https://img.shields.io/badge/Creative_AI-FF6B35?style=flat-square&logo=idea&logoColor=white" alt="Creative AI">
+        </p>
+      </td>
+      <td width="33%">
+        <a href="https://github.com/mk-knight23/nodebase">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=nodebase&theme=radical&hide_border=true" alt="nodebase">
+        </a>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Backend_API-000?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend API">
+        </p>
+        <p align="center"><strong>NodeBase</strong></p>
+        <p align="center">Scalable Node.js backend infrastructure designed specifically for AI applications with built-in model management.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ⚙️ AI Automation & Workflow Solutions
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/mk-knight23/N8n_Automations">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=N8n_Automations&theme=radical&hide_border=true" alt="N8n_Automations">
+        </a>
+        <p align="center">
+          <a href="https://mk-knight23.github.io/N8n_Automations">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>N8n Automations</strong></p>
+        <p align="center">Collection of AI-powered workflow automations using N8n, integrating various services with intelligent decision-making capabilities.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/N8n-FF6B35?style=flat-square&logo=n8n&logoColor=white" alt="N8n">
+          <img src="https://img.shields.io/badge/Workflow_Automation-0096D6?style=flat-square&logo=automation&logoColor=white" alt="Workflow Automation">
+          <img src="https://img.shields.io/badge/API_Integration-111111?style=flat-square&logo=api&logoColor=white" alt="API Integration">
+        </p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/mk-knight23/Make_Automations">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk-knight23&repo=Make_Automations&theme=radical&hide_border=true" alt="Make_Automations">
+        </a>
+        <p align="center">
+          <a href="https://mk-knight23.github.io/Make_Automations">
+            <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+          </a>
+        </p>
+        <p align="center"><strong>Make Automations</strong></p>
+        <p align="center">Advanced automation scenarios built with Make (formerly Integromat), featuring AI-enhanced decision nodes and data processing.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Make-FF6B35?style=flat-square&logo=make&logoColor=white" alt="Make">
+          <img src="https://img.shields.io/badge/Business_Process_Automation-0096D6?style=flat-square&logo=workflow&logoColor=white" alt="Business Process Automation">
+          <img src="https://img.shields.io/badge/Data_Transformation-111111?style=flat-square&logo=data&logoColor=white" alt="Data Transformation">
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
